@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecba54dc-0c04-46fd-9b5b-2ac9731f6f0a": {
+      "ProjectGuid": "ecba54dc-0c04-46fd-9b5b-2ac9731f6f0a",
+      "DisplayName": "FacebookScraperRunner",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

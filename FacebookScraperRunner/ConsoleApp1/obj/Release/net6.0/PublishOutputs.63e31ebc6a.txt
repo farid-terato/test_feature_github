@@ -1,0 +1,5 @@
+C:\Publish\FacebookScraperRunner\FacebookScraperRunner.exe
+C:\Publish\FacebookScraperRunner\FacebookScraperRunner.dll
+C:\Publish\FacebookScraperRunner\FacebookScraperRunner.deps.json
+C:\Publish\FacebookScraperRunner\FacebookScraperRunner.runtimeconfig.json
+C:\Publish\FacebookScraperRunner\FacebookScraperRunner.pdb
